@@ -32,5 +32,3 @@ Hard Skills:
   · Entiendo los conceptos básicos de la **teoría de la probabilidad** y las **estadísticas** matemáticas. Conozco los principales criterios estadísticos y las condiciones para su aplicabilidad  
   
   
-
-[![Mis habilidades](https://skillicons.dev/icons?i=py,mongodb,mysql,pytorch,figma&theme=light)](https://skillicons.dev)  
