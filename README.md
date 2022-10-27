@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hola! Soy Gala Rusina 👋
+### Soy ucraniana y vivo en Parla (Madrid)
+## Estoy terminando un máster en Data Science.🌱
+
+  ✨Durante mi vida yo tenía que cambiar el rumbo de mi carrera varias veces. Tenía que adaptarme a las circunstancias. Pero hace 2 años la vida me ha brindado la oportunidad única de parar y pensar lo que realmente me gustaría hacer. Y he tomado la decisión de formarme en el campo de Data Science. Porque siempre me atraía la programación, el análisis y la toma de decisiones basadas en datos. En mis trabajos anteriores tenía que monitorizar y analizar las métricas de e-commerce web y el rendimiento de la publicidad. Y sé muy bien como el correcto manejo de los datos puede servir de gran ayuda, y la falta de atención hacia los datos puede arruinar una empresa. Creo,  que mis conocimientos en el campo de medicina, en campo empresarial y de e-commerce me van a servir de gran ayuda en mi trabajo como data science/data analytics.
+Desde que he tomado esta decisión no he parado de estudiar para obtener los conocimientos necesarios y aplicarlos en proyectos prácticos.
+Puede ser que todavía no tengo la experiencia laboral como data sience, pero si me brinde la oportunidad, aplicaré todas las ganas, la constancia, toda mi capacidad de estudiar, trabajar duro, para ayudar a su empresa a crecer y tomar las mejores decisiones en este mundo tan cambiante.✨
