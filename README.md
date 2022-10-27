@@ -31,4 +31,10 @@ Hard Skills:
   ·**Redes Neuronales** y biblioteca **PyTorch**  
   · Entiendo los conceptos básicos de la **teoría de la probabilidad** y las **estadísticas** matemáticas. Conozco los principales criterios estadísticos y las condiciones para su aplicabilidad  
   
+  Soft Skills:
+  · Trabajo en equipo
+  · Atención al detalle
+  · Autodidacta
+  · Ganas de trabajar
+  
   
